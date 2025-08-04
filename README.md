@@ -1,1 +1,2 @@
 # Odin-recipes
+The odin recipe project is to build a basic website using HTML .By the end of this project i will have showcased my skill in HTML,cloning and pushic repos from git hub to my local computer, and commit messages
